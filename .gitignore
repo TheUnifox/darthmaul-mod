@@ -47,3 +47,12 @@ ndkpath.txt
 extern/
 Android.mk.backup
 qpm.shared.json
+
+#CMake stuff
+CMakeFiles/
+*.cmake*
+
+#ninja stuff
+*.ninja*
+
+*.qmod
